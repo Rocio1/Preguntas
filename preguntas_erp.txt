@@ -1,0 +1,4 @@
+Este es un archivo de texto, y contiene las preguntas realizadas en la presentación
+A. Tema: Adempiere
+1.- ¿Cuántos módulos tiene un programa empresarial para recibir el calificativo de ERP? (indique explictamente los nombres de módulos o área funcional que apoyan estos módulos).
+2.- Que significa "Escalable" en el ámbito de sistemas de información.
