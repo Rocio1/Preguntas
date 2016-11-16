@@ -2,3 +2,42 @@ Este es un archivo de texto, y contiene las preguntas realizadas en la presentac
 A. Tema: Adempiere
 1.- ¿Cuántos módulos tiene un programa empresarial para recibir el calificativo de ERP? (indique explictamente los nombres de módulos o área funcional que apoyan estos módulos).
 2.- Que significa "Escalable" en el ámbito de sistemas de información.
+3.- Ejemplos concretos de uso de Adempiere
+4.- Plataforma de HW necesaria (¿Un servidor dedicado?)
+5.- ¿Cómo clasificar las empresas que usan Adempiere?
+6.- Al ser una soloción free ¿cómo se financia su desarrollo?
+
+B. Tema: Apache OfBiz
+1.- ¿Qué es Apache? (Algunos ejemplos)
+2.- ¿En qué (o cómo) ayuda una solución tipo ObBiz a una iniciativa de e-Commerce?
+3.- ¿Que tipo de HW necesita uan intalación y explotación de OfBiz?
+4.- ¿Qué se entiende por framework? ¿Qué compone en Framework OfBiz?
+5.- Ejemplos de uso de OfBiz (empresas), y experiencias
+
+C. Tema: ERP AbanQ
+1.- ¿Cuáles son los módulos de AbanQ? (indique una descripción)
+2.- Versiones disponibles de AbanQ. ¿Cuántas hay?, ¿Costos?
+3.- Para la versión de pago ¿cómo son los costos asociados?
+4.- Para la elección del motor de BD ¿qué criterio usar? ¿alternativas de motores?
+5.- Ejemplos de uso de AbanQ
+
+D. Tema: GNUCASH
+1.- ¿Qué es XML? y ¿cómo lo usa (o implementa*) GNUCAHS?
+2.- ¿Qué es un protocolo? y ¿en que consiste el protocolo OFX?
+3.- ¿Para que sirve y qué características tiene el buscador BCash?
+4.- ¿En distintas instalaciones como se realiza una sincronización?
+
+
+E. Tema: ODOO
+1.- Costos asociados a la implantación de GNUCASH?
+2.- Requisitos de HW y SW?
+3.- ¿Quién es responsable de una instalación?
+4.- ¿Hay proveedores de servicio de personalización y/o mantención de GNUCASH?
+
+F. Tema: OpenBravo
+1.- ¿Cuáles son los costos asociados a versiones Profesional y Enterprinse?
+2.- En que consiste ep principio Vista-Controlador, y como se relaciona este principio con la arquitectura de OpenBravo
+3.- Un ejemplo de "Esquema de Contabilidad"?
+4.- ¿Qué son "Datos Maestros" en OpenBravo? (¿qué otros tipos de datos hay?)
+5.- ¿A qué tipo de PYMES es aplicable una solución de este tipo?
+
