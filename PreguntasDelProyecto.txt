@@ -1,0 +1,7 @@
+Sobre el proyecto algunas preguntas que se pueden hacer:
+1.- ¿Cómo clasificaría Usted la solución que le esta dando al problema en base al Software que esta diseñando?
+2.- ¿Qué herramientas y metodologías esta usando para el análisis y diseño?
+3.- ¿Cuáles son los principales requisitos de su sistema?
+4.- ¿Han evaluado riesgos?
+5.- ¿Cómo trabajan los temas de gestión de cambios?
+6.- Ejemplo de requisitos como relatos de usario y casos de uso 
