@@ -4,4 +4,5 @@ Sobre el proyecto algunas preguntas que se pueden hacer:
 3.- ¿Cuáles son los principales requisitos de su sistema?
 4.- ¿Han evaluado riesgos?
 5.- ¿Cómo trabajan los temas de gestión de cambios?
-6.- Ejemplo de requisitos como relatos de usario y casos de uso 
+6.- Ejemplo de requisitos principales como relatos de usario y/o casos de uso del sistema a desarrollar.
+
