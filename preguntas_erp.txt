@@ -16,10 +16,56 @@ B. Tema: Apache OfBiz
 
 C. Tema: ERP AbanQ
 1.- ¿Cuáles son los módulos de AbanQ? (indique una descripción)
+
+Las principales funciones del sistema se dividen en módulos, los cuales se instalan sobre el programa básico. Actualmente el software cuenta con los siguientes módulos integrados:
+1.	Facturación: permite el funcionamiento de la empresa gestionando clientes, proveedores, stock de productos, emisión de facturas.
+2.	Gestión de tesorería: permite llevar una organizada estructura de todas las facturas y conocer el estado en que se encuentran y a quién corresponden rápidamente
+3.	Contabilidad financiera: Facilita el control de las finanzas, control de gastos, entrada y salida de dinero, además de emitir informes de facturas emitidas y recibidas. También es de utilidad para proporcionar las pérdidas o ganancias de las pymes en un periodo determinado.
+4.	Talleres de automoción: este módulo complementario está diseñado para la gestión de empresas dedicadas a la reparación, venta y mantenimiento de vehículos
+5.	Formación: permite proporcionar las relaciones jerárquicas entre empleados y permite un almacenamiento efectivo y una correcta administración de los datos del personal.
+6.	Terminal punto de venta: permite gestionar las ventas de la empresa, donde a los artículos se les asigna una tarifa, asociando la facturación de los distintos clientes y proporcionando distintas formas de pago.
+7.	Control de producción (MRP):  permite realizar un completo seguimiento a los procesos de fabricación de producción en series, ademas de proporcionar los costos asociados a la producción. 
+8.	Gestión de campaña y acciones clientes (CRM): gestiona todas las funcionalidades relacionadas con clientes y proveedores de la organización, de esta manera coordinar las relaciones con estos, proporcionando información de cada uno de los movimientos asociados.
+9.	Gestión de almacenes: Este módulo está relacionado con los temas de stocks, artículos, tarifas, transferencias y datos de compra. Es de suma utilidad para gestionar los movimientos de stocks en el almacén, relacionándose estrechamente con el módulo de facturación y con el de ventas.
+10.	Soporte para códigos de barras: permite la introducción y visualización gráfica de códigos de barras de los distintos productos de la empresa.
+Cabe destacar que las dos áreas principales del software están disponibles de manera gratuita, estas son Facturación y Contabilidad Financiera.
+
 2.- Versiones disponibles de AbanQ. ¿Cuántas hay?, ¿Costos?
+
+•	Versión 2.2 se liberó en junio de 2007.
+•	Versión 2.3 se liberó en noviembre de 2008.
+•	Versión 2.4 se liberó en octubre de 2014.
+Descargar y utilizar libremente cada una de las versiones no tiene costo asociado.
+
 3.- Para la versión de pago ¿cómo son los costos asociados?
+
+	Los costos asociados para la versión pagada son por módulos instalados que tienen un valor de 300 a 2000 euros ($200.000 a $1.500.000 aproximadamente) dependiendo de las necesidades de la empresa. También se pueden agregar extensiones a los módulos gratis y tiene un costo de 58 a 438 euros ($40.000 a $300.000 aproximadamente).
+  
 4.- Para la elección del motor de BD ¿qué criterio usar? ¿alternativas de motores?
+Se proponen los siguientes criterios para la elección de un motor de BD:
+1.	Entender los requerimientos actuales pero pensados en el futuro: Se debe entender los requerimientos funcionales y no funcionales y escoger la base de datos que mejor se ajuste a estos requerimientos. Los requerimientos pueden abarcar lo siguiente:
+•	Cantidad de datos y tipo de datos (texto, binarios, espacial u otros tipos específicos).
+•	Número simultaneo de usuarios.
+•	Disponibilidad: cuánto tiempo puede permitir tener de baja la base de datos.
+•	Escalabilidad: qué hará cuando la cantidad de datos y el número de usuarios aumente.
+•	Seguridad: cuanto necesitará de características como seguridad e encriptación de datos, administración de usuarios, privilegios.
+•	Manejo y administración: cuan amigable quiere que sea la administración de la BD.
+•	Que otras características quiere obtener de la BD.
+
+2.	Tomar en cuenta experiencias previas: Debe considerarse sus experiencias previas (si es que las posee) y las habilidades desarrolladas trabajando con bases de datos. Elegir una base de datos conocida en la cual se posee experiencia, reduce tiempo al no tener que familiarizarse nuevamente con la BD y también reduce costos en algunos casos como por ejemplo cuando se desea invertir en un curso para aprender el manejo de cierta BD.
+
+
+3.	Considerar el valor del soporte y costos de licencia de cada base de datos.
+
+4.	Considerar los requisitos del sistema operativo, ya que algunos motores de base datos requieren sistemas operativos específicos.
+	Se presentan las siguientes alternativas de motores de base de datos compatibles con el software:
+1.	PostgreSQL
+2.	MySQL
+3.	SQLite
+
+
 5.- Ejemplos de uso de AbanQ
+AbanQ fue utilizado en Porto Cristo, Mallorca, por el hotel Monteverde, en el año 2010, puesto que necesitaba una solución para gestionar correctamente toda la información generada, las tareas administrativas, la contabilidad diaria y la atención al cliente. Este ERP fue adaptado según las necesidades mencionados anteriormente añadiéndose funcionalidades.
 
 D. Tema: GNUCASH
 1.- ¿Qué es XML? y ¿cómo lo usa (o implementa*) GNUCAHS?
